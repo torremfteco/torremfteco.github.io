@@ -1,0 +1,46 @@
+
+
+#enlace {
+   color: rgb(151, 238, 37)
+}
+
+
+
+body {
+  color: rgb(127, 208, 255);
+}
+
+body {
+  background-color: rgb(96, 72, 99);
+}
+
+.borde {
+  border-radius: 20%;
+  border-color: rgb(170, 170, 166);
+  border-style: solid;
+}
+
+h1 {
+  color: rgb(253, 100, 240);
+}
+
+h1 {
+  font-size: 100px
+}
+
+
+h2 {
+  color:rgb(129, 184, 206);
+}
+
+p {
+  color: rgb(129, 184, 206);
+}
+
+p,
+h2
+li
+ul,
+ol {
+  font-size: 20px;
+}
